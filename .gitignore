@@ -1,0 +1,15 @@
+# Virtual environments (never commit these - the .venv is ~700 MB)
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+.venv
+venv
+.git
+.github
+__pycache__
+*.pyc
+.pytest_cache
+k8s
+monitoring
+tests
+docker-compose.yml
+*.ipynb
+streamlit_app.py
+requirements-dev.txt
+requirements-streamlit.txt
+README.md
